@@ -1,0 +1,28 @@
+
+#container {
+  width: auto;
+  margin: 20px;
+  padding: 20px;
+  background-color: #95E1D3;
+  border-radius: 5px;
+}
+
+#container-projects{
+  width: 600px;
+  height: 600px;
+  float: left;
+  padding: 20px;
+  background-color: #95E1D3;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+#sidebar {
+  width: 250px;
+  height: 600px;
+  float: left;
+  padding: 20px;
+  background-color: #F38181;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
